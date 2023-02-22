@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
