@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
