@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
