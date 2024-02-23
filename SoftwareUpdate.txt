@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Update Colab notebook for YOLOv8.1 (#8660)
